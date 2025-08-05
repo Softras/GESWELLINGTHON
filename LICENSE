@@ -1,0 +1,9 @@
+
+---
+
+## ✅ Dicas extras:
+- Substitua `softras` pelo seu nome de usuário do GitHub.
+- Adicione um link real para seu LinkedIn se quiser divulgar.
+- Você pode incluir uma imagem do app com um print e usar markdown:  
+  ```markdown
+  ![Tabela Streamlit em execução](screenshot.png)
